@@ -14,12 +14,33 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- I'm aspiring 🔭️ Data Scientist currently learning 🌱 **Deep Learning**.
+- I'm aspiring 🔭️ Data Scientist currently delving deep into **Neural Networks** 🚂.
+- I'm  Interested in Artificial Intelligence 🤔. 
 - I always like working in 🐧️**Linux** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
 ### &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
 
+<br/>
+
+> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
+> -- Steve Jobs
+
+
+<div align="right">
+<!-- 
+[![Write into my guest book](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/sriharikapu/sriharikapu/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook) 
+<a   href="https://github.com/sriharikapu/sriharikapu/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
+<strong> ___ 🖋 Write into my guest book</strong></a>
+-->
+<br/>
+<br/>  
+
+[![Write into my guest book](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/sriharikapu/sriharikapu/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook)
+<br/>
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/sriharikapu163@gmail.com)
+
+</div>
 
 
 <!--
