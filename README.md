@@ -10,6 +10,7 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 
 </div>
 
+<--
 - 🌱 I’m currently learning **Deep Learning , Optimization**
 
 - 💬 Ask me about **Data Science**
@@ -25,3 +26,4 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 <a href="https://linkedin.com/in/ditikrushnagiri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ditikrushnagiri" height="30" width="30" /></a>
 <a href="https://fb.com/diti.giri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="diti.giri" height="30" width="30" /></a>
 </p>
+-->
