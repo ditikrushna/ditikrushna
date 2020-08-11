@@ -13,7 +13,7 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 </br>
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
-- I’m a Computer Science 💻 graduate of 2020 batch from **NIT Trichy**. I come with an extensive experience of working with different technologies including Web Development, Data Science and Machine Learning ⏳. 
+- I’m a Computer Science 💻 graduate of 2020 batch from **NIT Trichy**🎓. I come with an extensive experience of working with different technologies including Web Development, Data Science and Machine Learning ⏳. 
 - I'm aspiring 🔭️ Data Scientist currently delving deep into **Neural Networks** 🚂.
 - I'm  Interested in Artificial Intelligence 🤔. 
 - I always like working in 🐧️**Linux** Environment.
