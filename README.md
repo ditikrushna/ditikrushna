@@ -7,6 +7,7 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
+</div>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </br>
