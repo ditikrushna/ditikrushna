@@ -1,6 +1,14 @@
 <h1 align="center">Hola 👋, I'm Ditikrushna Giri</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
+<div align="center">
+You have finally discovered my Github profile. <br>
+Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new"><b>here</b></a><br>
+or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 
+<i>Happy Coding!</i> 😊
+
+</div>
 
 - 🌱 I’m currently learning **Deep Learning , Optimization**
 
