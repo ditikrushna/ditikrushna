@@ -59,18 +59,6 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 
 </div>
 
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
-
-<i>Follow me around the web:</i><br>
-
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/ditikrushna/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.facebook.com/diti.giri/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
- 
-
-<a href="https://www.linkedin.com/in/ditikrushna" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.facebook.com/diti.giri" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-</div>
-
 
 <!--
 - 🌱 I’m currently learning **Deep Learning , Optimization**
