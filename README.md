@@ -8,12 +8,15 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 
-</div>
-<h3 align="center">About me</h3>
-<div align="center"> 
-I’m a Computer Science graduate of 2020 batch. I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
-</div> 
+## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
+- I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **ReactJs**.
+- I always like working in 🐧️**Linux** Environment.
+- I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
+
+### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
+
+--- 
 
 
 
