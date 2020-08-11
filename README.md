@@ -8,6 +8,9 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+</br>
+
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 - I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **ReactJs**.
@@ -15,8 +18,6 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
-
---- 
 
 
 
