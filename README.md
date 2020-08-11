@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Deep Learning , Optimization**
 
-- 👨‍💻 All of my projects are available at [http://ditikrushna.me/](http://ditikrushna.me/)
-
 - 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **ditikrushna.nitt@gmail.com**
