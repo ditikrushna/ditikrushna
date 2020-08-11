@@ -10,7 +10,7 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 
 </div>
 
-<--
+<!--
 - 🌱 I’m currently learning **Deep Learning , Optimization**
 
 - 💬 Ask me about **Data Science**
