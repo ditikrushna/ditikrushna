@@ -36,9 +36,9 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 <br/>
 <br/>  
 
-[![Write into my guest book](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/sriharikapu/sriharikapu/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook)
+[![Write into my guest book](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/ditikrushna/ditikrushna/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook)
 <br/>
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/sriharikapu163@gmail.com)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/ditikrushna.nitt@gmail.com)
 
 </div>
 
