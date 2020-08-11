@@ -1,13 +1,12 @@
 <h1 align="center">Hola 👋, I'm Ditikrushna Giri</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 - 🌱 I’m currently learning **Deep Learning , Optimization**
 
 - 👨‍💻 All of my projects are available at [http://ditikrushna.me/](http://ditikrushna.me/)
 
-- 💬 Ask me about **Machine Learning , Data Science and Data Structure and Algorithms**
+- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **ditikrushna.nitt@gmail.com**
 
