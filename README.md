@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ditikrushna" alt="ditikrushna" /> </p>
 
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 - 🌱 I’m currently learning **Deep Learning , Optimization**
 
 - 👨‍💻 All of my projects are available at [http://ditikrushna.me/](http://ditikrushna.me/)
