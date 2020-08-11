@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ditikrushna&layout=compact)](https://github.com/ditikrushna/github-readme-stats)
+
 ![Ditikrushna's github stats](https://github-readme-stats.vercel.app/api?username=ditikrushna&count_private=true) 
+
+<a href="https://github.com/ditikrushna/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ditikrushna&repo=convoychat" />
+</a>
