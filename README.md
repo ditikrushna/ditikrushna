@@ -26,15 +26,15 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 
 ## &nbsp; &nbsp;🔥 **Things I'm good at** 
 
-**Languages:** C/C++, Python, SQL, HTML, CSS, JavaScript, Markdown.
+- **Languages:** C/C++, Python, SQL, HTML, CSS, JavaScript, Markdown.
 
-**Framework:** Flask, Bootstrap.
+- **Framework:** Flask, Bootstrap.
 
-**Database:** MySQL , MongoDB.
+- **Database:** MySQL , MongoDB.
 
-**Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, pytest, Seaborn, Plotly, LaTeX, Git . 
+- **Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, pytest, Seaborn, Plotly, LaTeX, Git . 
 
-**Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods. 
+- **Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods. 
 
 
 
