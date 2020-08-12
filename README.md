@@ -26,27 +26,15 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 
 ## &nbsp; &nbsp;🔥 **Things I'm good at** 
 
-Languages: Python, SQL, HTML, CSS, JavaScript, Ruby.
+**Languages:** C/C++, Python, SQL, HTML, CSS, JavaScript.
 
-Framework: Flask, Ruby on Rails, AngularJS, React, Bootstrap.
+**Framework:** Flask, Bootstrap.
 
-Libraries & Tools: AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, PyTorch, Keras, NLTK, Sentry.
+**Database:** MySQL , MongoDB.
 
-Data Analysis: Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics.
+**Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, pytest ,Flask. 
 
-
-
-
-
-
-
-
-
-
-<br/>
-
-> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
-> -- Steve Jobs
+**Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods. 
 
 
 
@@ -54,20 +42,8 @@ Data Analysis: Exploratory Data Analysis, Natural Language Processing, Image Pro
 
 
 
-<div align="right">
-<!-- 
-[![Write into my guest book](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/sriharikapu/sriharikapu/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook) 
-<a   href="https://github.com/sriharikapu/sriharikapu/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
-<strong> ___ 🖋 Write into my guest book</strong></a>
--->
-<br/>
-<br/>  
 
-[![Write into my guest book](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/ditikrushna/ditikrushna/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook)
-<br/>
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/diti.geek@gmail.com)
 
-</div>
 
 
 <!--
