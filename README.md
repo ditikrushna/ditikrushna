@@ -21,12 +21,18 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 
 ### &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif"/>
 </br>
 
-## &nbsp; &nbsp; **Things I'm good at** 🔥
+## &nbsp; &nbsp;🔥 **Things I'm good at** 
 
+Languages: Python, SQL, HTML, CSS, JavaScript, Ruby.
 
+Framework: Flask, Ruby on Rails, AngularJS, React, Bootstrap.
+
+Libraries & Tools: AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, PyTorch, Keras, NLTK, Sentry.
+
+Data Analysis: Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics.
 
 
 
