@@ -45,21 +45,17 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 
 --- 
 
-## 📢 Find me elsewhere
+
 <p align="center">
-  <a href="https://www.codechef.com/users/abhimaira_10">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
-  </a>
-  
-  <a href="https://leetcode.com/abhishekmaira1999/">
+  <a href="https://leetcode.com/user2917t/">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>
 
-  <a href="https://www.hackerrank.com/abhishekmaira191">
+  <a href="https://www.hackerrank.com/diticuo062">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>
   
-  <a href="https://www.codewars.com/users/abhimaira_10">
+  <a href="https://www.codewars.com/users/ditikrushna">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
   </a> 
 </p>
