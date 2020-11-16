@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Ditikrushna Giri</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Software Professional from India</h3>
 <div align="center">
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
