@@ -20,14 +20,19 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 ✍️  In my free time, I pursue Graphic Design side hustles.<br/>
 💬 Ask me about anything [here](https://github.com/ditikrushna/ditikrushna/issues/new)<br/> 
 
-### &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
+
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif"/>
 </br>
 
 ## &nbsp; &nbsp;🔥 **Things I'm good at** 
 
-- **Languages:** C/C++, Python, SQL, HTML, CSS, JavaScript, Markdown.
+- **Languages:** 
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
 
 - **Framework:** Flask, Bootstrap.
 
