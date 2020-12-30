@@ -12,7 +12,7 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </br>
 
-## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 👨‍ I'm a Developer | Programmer | Learner   
 💡  I like to explore new technologies and develop software solutions . <br/>
