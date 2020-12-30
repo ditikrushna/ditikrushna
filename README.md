@@ -19,13 +19,13 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 - **I'm on track for learning more about Unit-Testing and TypeScript** <br/>
 - **In my free time, I pursue Graphic Design side hustles.** <br/>
 - Ask me about anything [here](https://github.com/ditikrushna/ditikrushna/issues/new)<br/> 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif">
 
 --- 
 
 
 <!--
---- 
+ <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif">
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b><span align='center'>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></span>
 
