@@ -24,32 +24,6 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 --- 
 
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
-
-- **I'm a Developer | Programmer | Learner**<br/>   
-- **I like to explore new technologies and develop software solutions .** <br/>
-- **I'm on track for learning more about Unit-Testing and TypeScript** <br/>
-- **In my free time, I pursue Graphic Design side hustles.** <br/>
-
-
-
-<!--
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif">
-</br>
-
- **Tech Stack** 
-
-- **Languages:**<br/> 
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-
-
-- **Framework:** Flask, Bootstrap.
-
-- **Database:** MySQL , MongoDB.
-
-- **Libraries & Tools:
---> 
 
 --- 
 
