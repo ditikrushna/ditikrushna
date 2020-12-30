@@ -16,7 +16,7 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 
 👨‍ I'm a Developer | Programmer | Learner   
 💡  I like to explore new technologies and develop software solutions . <br/>
-🌱 I'm on track for learning more about Full Stack Devlopment and System Design. <br/>
+🌱 I'm on track for learning more about Unit-Testing and TypeScript <br/> 
 ✍️  In my free time, I pursue Graphic Design side hustles.<br/>
 💬 Ask me anything web dev<br/>
 
