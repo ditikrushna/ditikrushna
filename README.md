@@ -21,8 +21,10 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 💬 Ask me about anything [here](https://github.com/ditikrushna/ditikrushna/issues/new)<br/> 
 
 
-
+<div align ="center">
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif"/>
+</div>
+
 </br>
 
 🔥 **Things I'm good at** 
