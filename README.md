@@ -24,7 +24,7 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 --- 
 
 
-
+<!--
 --- 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b><span align='center'>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></span>
@@ -45,7 +45,7 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
   </a> 
 </p>
-
+-->
 
 
 
