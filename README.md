@@ -8,7 +8,7 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 </div>
-
+https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </br>
 
@@ -23,8 +23,8 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 💬 Ask me about anything [here](https://github.com/ditikrushna/ditikrushna/issues/new)<br/> 
 
 
-
-<img align="left" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif">
+<!--
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif">
 </br>
 
  **Tech Stack** 
@@ -39,7 +39,7 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 - **Database:** MySQL , MongoDB.
 
 - **Libraries & Tools:
-
+--> 
 
 --- 
 
