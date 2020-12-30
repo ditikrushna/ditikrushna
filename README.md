@@ -8,7 +8,7 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 </div>
-https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </br>
 
@@ -21,7 +21,7 @@ https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif
 
 <br/><br/><br/>
 💬 Ask me about anything [here](https://github.com/ditikrushna/ditikrushna/issues/new)<br/> 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif">
 </br>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
