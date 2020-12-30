@@ -20,12 +20,9 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 ✍️  In my free time, I pursue Graphic Design side hustles.<br/>
 💬 Ask me about anything [here](https://github.com/ditikrushna/ditikrushna/issues/new)<br/> 
 
-
+<br/>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif"/>
-
-
-</br>
 
 🔥 **Things I'm good at** 
 
