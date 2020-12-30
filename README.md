@@ -27,7 +27,7 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 <img align="left" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif">
 </br>
 
-## &nbsp; &nbsp;🔥 **Tech Stack** 
+ **Tech Stack** 
 
 - **Languages:**<br/> 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -41,10 +41,8 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 - **Libraries & Tools:
 
 
+--- 
 
-<br/>
-<br/>
-<br/>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b><span align='center'>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></span>
 
 --- 
