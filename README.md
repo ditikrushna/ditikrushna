@@ -22,6 +22,12 @@ https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif
 <br/><br/><br/>
 💬 Ask me about anything [here](https://github.com/ditikrushna/ditikrushna/issues/new)<br/> 
 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+
+- **I'm a Developer | Programmer | Learner**<br/>   
+- **I like to explore new technologies and develop software solutions .** <br/>
+- **I'm on track for learning more about Unit-Testing and TypeScript** <br/>
+- **In my free time, I pursue Graphic Design side hustles.** <br/>
 
 <!--
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif">
