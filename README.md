@@ -21,9 +21,9 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 💬 Ask me about anything [here](https://github.com/ditikrushna/ditikrushna/issues/new)<br/> 
 
 
-<div align ="center">
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif"/>
-</div>
+
 
 </br>
 
@@ -31,11 +31,11 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 
 - **Languages:** C , C++ , JavaScript , TypeScript , Python , Markdown , HTML , CSS and Markdown. 
 
-- **Framework:** Flask, Bootstrap.
+- **Framework:** Flask, Bootstrap , C , C++ , JavaScript , TypeScript , Python , Markdown , HTML , CSS and Markdown.
 
-- **Database:** MySQL , MongoDB.
+- **Database:** MySQL , MongoDB, C , C++ , JavaScript , TypeScript , Python , Markdown , HTML , CSS and Markdown.
 
-- **Libraries & Tools:
+- **Libraries & Tools:**  C , C++ , JavaScript , TypeScript , Python , Markdown , HTML , CSS and Markdown.
 
 
 
