@@ -22,7 +22,7 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 
 
 
-<img align="left" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif">
 </br>
 
 ## &nbsp; &nbsp;🔥 **Tech Stack** 
