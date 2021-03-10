@@ -24,7 +24,7 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 > Fact : First love the problem , then solve the problem.   
 --- 
 
-<img src="http://www.netanimations.net/livres-13.gif" width="30"> **Latest Blogs** 
+<img src="http://www.netanimations.net/livres-13.gif" width="40"> **Latest Blogs** 
 
 <!--
  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif">
