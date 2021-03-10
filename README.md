@@ -26,6 +26,13 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 
 <img src="http://www.netanimations.net/livres-13.gif" width="40"> **Latest Blogs** 
 
+- [Events and Event Emitter in Node.js](https://dev.to/ditikrushna/events-and-event-emitter-in-node-js-2ek5) 
+
+
+
+
+
+
 <!--
  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif">
 
