@@ -1,10 +1,7 @@
 <h1 align="center">Hola 👋, I'm Ditikrushna Giri</h1>
 <h3 align="center">A Full Stack Engineer from India</h3>
-<br>
-
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ditikrushna" alt="ditikrushna" /> </p>
- 
- </br>
+
 <div align="center">
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
