@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, I'm Ditikrushna Giri</h1>
 <h3 align="center">A Full Stack Engineer from India</h3>
+![](https://komarev.com/ghpvc/?username=ditikrushna&color=green)
 <div align="center">
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
@@ -10,7 +11,7 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
-![](https://komarev.com/ghpvc/?username=ditikrushna&color=green)
+
 </br>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
