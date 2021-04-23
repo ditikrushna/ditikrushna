@@ -39,6 +39,9 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 <img src="http://www.netanimations.net/livres-13.gif" width="40"> **Latest Blogs** 
 
 <!-- BLOG-POST-LIST:START -->
+- [Are you using the right CSS units?](https://dev.to/ditikrushna/are-you-using-the-right-css-units-25ee)
+- [Introduction to Docker](https://dev.to/ditikrushna/introduction-to-docker-2b2)
+- [Events and Event Emitter in Node.js](https://dev.to/ditikrushna/events-and-event-emitter-in-node-js-2ek5)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
