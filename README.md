@@ -25,7 +25,6 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 
 
 > Fact : First love the problem , then solve the problem.  
-<br/>
 
 ---
 
