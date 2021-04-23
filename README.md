@@ -29,6 +29,27 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    121 commits    ██████░░░░░░░░░░░░░░░░░░░   24.25% 
+🌆 Daytime    158 commits    ████████░░░░░░░░░░░░░░░░░   31.66% 
+🌃 Evening    188 commits    █████████░░░░░░░░░░░░░░░░   37.68% 
+🌙 Night      32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.41%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
 
 
 <!--END_SECTION:waka-->
