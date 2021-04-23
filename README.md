@@ -27,11 +27,13 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 > Fact : First love the problem , then solve the problem.  
 --- 
 
-<img src="http://www.netanimations.net/livres-13.gif" width="40"> **Latest Blogs** 
 
 <!--START_SECTION:waka-->
+
+
 <!--END_SECTION:waka-->
---- 
+
+---
 
 
 --- 
