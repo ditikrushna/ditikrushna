@@ -24,7 +24,16 @@ or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
 - Ask me about anything [here](https://github.com/ditikrushna/ditikrushna/issues/new)<br/> 
 
 
-> Fact : First love the problem , then solve the problem.   
+> Fact : First love the problem , then solve the problem.  
+--- 
+
+<img src="http://www.netanimations.net/livres-13.gif" width="40"> **Latest Blogs** 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+--- 
+
+
 --- 
 
 <img src="http://www.netanimations.net/livres-13.gif" width="40"> **Latest Blogs** 
