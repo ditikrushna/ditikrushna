@@ -6,7 +6,7 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new"><b>here</b></a><br>
-or <a href="mailto:ditikrushna.nitt@gmail.com"><b>email</b></a> me
+or <a href="mailto:ditikrushna.nit@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 </div>
