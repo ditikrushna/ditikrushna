@@ -24,8 +24,7 @@ or <a href="mailto:ditikrushna.nit@gmail.com"><b>email</b></a> me
 - Ask me about anything [here](https://github.com/ditikrushna/ditikrushna/issues/new)<br/> 
 
 
-> Fact : First love the problem , then solve the problem.  
-
+> Fact : The very first step towards creating long-lasting software is figuring out how to write clean code.
 ---
 
 <!--START_SECTION:waka-->
