@@ -82,6 +82,7 @@ VS Code                  11 hrs 39 mins      ███████████�
 <img src="http://www.netanimations.net/livres-13.gif" width="40"> **Latest Blogs** 
 
 <!-- BLOG-POST-LIST:START -->
+- [Multi Thread Model](https://dev.to/ditikrushna/multi-thread-model-5gn0)
 - [Are you using the right CSS units?](https://dev.to/ditikrushna/are-you-using-the-right-css-units-25ee)
 - [Introduction to Docker](https://dev.to/ditikrushna/introduction-to-docker-2b2)
 - [Events and Event Emitter in Node.js](https://dev.to/ditikrushna/events-and-event-emitter-in-node-js-2ek5)
