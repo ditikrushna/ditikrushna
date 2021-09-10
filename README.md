@@ -18,7 +18,7 @@ or <a href="mailto:ditikrushna.nit@gmail.com"><b>email</b></a> me
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 - **I'm a Developer | Programmer | Learner**<br/>   
-- **I like to explore new technologies and develop software solutions .** <br/>
+- **I love building things especially webservices using JavaScript and Go ** <br/>
 - **I'm on track for learning more about designing scalable backend infrastructures and AWS Infrastructures** <br/>
 - **In my free time, I pursue Graphic Design (side hustles).** <br/>
 - Ask me about anything [here](https://github.com/ditikrushna/ditikrushna/issues/new)<br/> 
