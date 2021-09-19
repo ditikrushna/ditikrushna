@@ -79,6 +79,14 @@ VS Code                  14 hrs 33 mins      ███████████�
 ---
 
 
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
+--- 
+
+
 <img src="http://www.netanimations.net/livres-13.gif" width="40"> **Latest Blogs** 
 
 <!-- BLOG-POST-LIST:START -->
