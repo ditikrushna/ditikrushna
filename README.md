@@ -79,7 +79,7 @@ VS Code                  14 hrs 33 mins      ███████████�
 ---
 
 
-# Todoist Stats
+✅ **Todoist Stats**
 
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
