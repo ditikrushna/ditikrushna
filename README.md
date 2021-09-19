@@ -45,12 +45,12 @@ or <a href="mailto:ditikrushna.nit@gmail.com"><b>email</b></a> me
 
 ```text
 Monday       66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.69% 
-Tuesday      97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.24% 
+Tuesday      91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.36% 
 Wednesday    181 commits    ██████░░░░░░░░░░░░░░░░░░░   26.58% 
 Thursday     109 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.01% 
 Friday       57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.37% 
 Saturday     89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.07% 
-Sunday       82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.04%
+Sunday       88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.92%
 
 ```
 
