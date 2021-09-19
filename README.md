@@ -23,12 +23,9 @@ or <a href="mailto:ditikrushna.nit@gmail.com"><b>email</b></a> me
 - **In my free time, I pursue Graphic Design (side hustles).** <br/>
 - Ask me about anything [here](https://github.com/ditikrushna/ditikrushna/issues/new)<br/> 
 
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
  
-> Fact-1 : The very first step towards creating long-lasting software is figuring out how to write clean code.
-
-
-> Fact-2 : Picking the right architecture = Picking the right battles + Managing trade-offs 
-
 ---
 
 <!--START_SECTION:waka-->
