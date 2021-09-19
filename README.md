@@ -85,7 +85,7 @@ VS Code                  25 hrs              ███████████�
 
 📚 **Books I'm Currently Reading**
 <!-- GOODREADS-LIST:START -->
-- [How I Saved the World](https://www.goodreads.com/review/show/4245711726?utm_medium=api&utm_source=rss) by Jesse Watters (⭐️4.36)
+- [How I Saved the World](https://www.goodreads.com/review/show/4245711726?utm_medium=api&utm_source=rss) by Jesse Watters (⭐️4.35)
 <!-- GOODREADS-LIST:END -->
 
 ---
