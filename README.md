@@ -79,7 +79,7 @@ VS Code                  14 hrs 33 mins      ███████████�
 ---
 
 
-# Todoist Stats
+🚧 **My Todoist Stats**
 
 <!-- TODO-IST:START -->
 🏆  100 Karma Points           
