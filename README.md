@@ -85,6 +85,11 @@ VS Code                  25 hrs              ███████████�
 
 
 --- 
+📚 **Books I'm Currently Reading**
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+
+---
 
 
 <img src="http://www.netanimations.net/livres-13.gif" width="40"> **Latest Blogs** 
