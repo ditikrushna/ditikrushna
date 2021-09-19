@@ -83,8 +83,6 @@ VS Code                  25 hrs              ███████████�
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
-
---- 
 📚 **Books I'm Currently Reading**
 <!-- GOODREADS-LIST:START -->
 - [How I Saved the World](https://www.goodreads.com/review/show/4245711726?utm_medium=api&utm_source=rss) by Jesse Watters (⭐️4.36)
@@ -93,7 +91,7 @@ VS Code                  25 hrs              ███████████�
 ---
 
 
-<img src="http://www.netanimations.net/livres-13.gif" width="40"> **Latest Blogs** 
+<img src="http://www.netanimations.net/livres-13.gif" width="40">**Latest Blogs** 
 
 <!-- BLOG-POST-LIST:START -->
 - [Multi Thread Model](https://dev.to/ditikrushna/multi-thread-model-5gn0)
