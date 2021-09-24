@@ -77,10 +77,10 @@ VS Code                  25 hrs              ███████████�
 🚧 **My Todoist Stats**
 
 <!-- TODO-IST:START -->
-🏆  605 Karma Points           
-🌸  Completed 4 tasks today           
-✅  Completed 15 tasks so far           
-⏳  Longest streak is 0 days
+🏆  648 Karma Points           
+🌸  Completed 5 tasks today           
+✅  Completed 16 tasks so far           
+⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
 📚 **Books I'm Currently Reading**
