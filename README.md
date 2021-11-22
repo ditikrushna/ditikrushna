@@ -85,7 +85,7 @@ VS Code                  7 hrs 38 mins       ███████████�
 
 📚 **Books I'm Currently Reading**
 <!-- GOODREADS-LIST:START -->
-- [How I Saved the World](https://www.goodreads.com/review/show/4245711726?utm_medium=api&utm_source=rss) by Jesse Watters (⭐️4.34)
+- [How I Saved the World](https://www.goodreads.com/review/show/4245711726?utm_medium=api&utm_source=rss) by Jesse Watters (⭐️4.33)
 - [Mossad: The Greatest Missions of the Israeli Secret Service](https://www.goodreads.com/review/show/4247486021?utm_medium=api&utm_source=rss) by Michael Bar-Zohar (⭐️4.15)
 <!-- GOODREADS-LIST:END -->
 
