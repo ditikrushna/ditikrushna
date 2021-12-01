@@ -80,7 +80,7 @@ VS Code                  15 hrs 34 mins      ███████████�
 
 <!-- TODO-IST:START -->
 🏆  3,147 Karma Points           
-🌸  Completed 1 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 141 tasks so far           
 ⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
