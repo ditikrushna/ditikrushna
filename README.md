@@ -18,7 +18,7 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 
 - **I'm a Developer | Programmer | Learner**<br/>   
 - **I love building things especially webservices using JavaScript and Go.** <br/>
-- **I'm on track for learning more about designing scalable backend infrastructures** <br/>
+- **I'm on track for learning distributed systems ** <br/>
 - **In my free time, I pursue Graphic Design (side hustles).** <br/>
 - Ask me about anything [here](https://github.com/ditikrushna/ditikrushna/issues/new)<br/> 
 
