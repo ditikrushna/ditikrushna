@@ -87,7 +87,7 @@ VS Code                  6 hrs 47 mins       ███████████�
 
 📚 **Books I'm Currently Reading**
 <!-- GOODREADS-LIST:START -->
-- [The Outsider](https://www.goodreads.com/review/show/2630769767?utm_medium=api&utm_source=rss) by Stephen King (⭐️3.95)
+- [The Outsider](https://www.goodreads.com/review/show/2630769767?utm_medium=api&utm_source=rss) by Stephen King (⭐️3.94)
 - [Mossad: The Greatest Missions of the Israeli Secret Service](https://www.goodreads.com/review/show/4247486021?utm_medium=api&utm_source=rss) by Michael Bar-Zohar (⭐️4.15)
 <!-- GOODREADS-LIST:END -->
 
