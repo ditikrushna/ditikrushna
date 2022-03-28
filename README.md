@@ -23,7 +23,7 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 - Ask me about anything [here](https://github.com/ditikrushna/ditikrushna/issues/new)<br/> 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝4004 was the name given to the first microprocessor by Intel.❞</i>
+<i>❝Well, there are two games that were the first ever made in the US called Asteroids and Lunar Lander in 1980.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  
 ---
