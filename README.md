@@ -29,7 +29,7 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 ---
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-335%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-312%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -58,17 +58,17 @@ Sunday       48 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 25 mins       ██████████████████████░░░   90.26% 
-JSON                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.11% 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64%
+JavaScript               3 hrs 34 mins       ██████████████████████░░░   89.91% 
+JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.93% 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17%
 
 🔥 Editors: 
-VS Code                  3 hrs 47 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 58 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 01/04/2022 18:56:08 UTC
+ Last Updated on 02/04/2022 18:50:12 UTC
 <!--END_SECTION:waka-->
 
 ---
