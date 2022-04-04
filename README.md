@@ -29,7 +29,7 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 ---
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-312%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-335%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -68,7 +68,7 @@ VS Code                  3 hrs 10 mins       ███████████�
 ```
 
 
- Last Updated on 03/04/2022 18:51:06 UTC
+ Last Updated on 04/04/2022 18:52:52 UTC
 <!--END_SECTION:waka-->
 
 ---
