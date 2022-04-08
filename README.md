@@ -23,7 +23,7 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 - Ask me about anything [here](https://github.com/ditikrushna/ditikrushna/issues/new)<br/> 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Before man reaches the moon, mail will be delivered within hours from New York to California, to Britain, to India or Australia.”— Arthur Summerfield, 1959, United States Post❞</i>
+<i>❝“The best way to learn data science is to do data science.”— Chanin Nantasenamat❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  
 ---
