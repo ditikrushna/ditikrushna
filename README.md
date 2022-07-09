@@ -23,7 +23,7 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 - Ask me about anything [here](https://github.com/ditikrushna/ditikrushna/issues/new)<br/> 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Physics is the universe’s operating system.”— Steven R Garman   ❞</i>
+<i>❝“It has been discovered that C++ provides a remarkable facility for concealing the trivial details of a program — such as where its bugs are.”— David Keppel   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  
 ---
