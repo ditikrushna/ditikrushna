@@ -29,7 +29,7 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-725%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-793%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-328%20Thousand%20lines%20of%20code-blue)
 
@@ -68,7 +68,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 18/08/2022 18:53:31 UTC
+ Last Updated on 20/08/2022 18:50:40 UTC
 <!--END_SECTION:waka-->
 
 ---
