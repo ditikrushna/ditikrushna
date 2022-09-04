@@ -29,46 +29,12 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-793%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-328%20Thousand%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
-🌆 Daytime    111 commits    ████████████░░░░░░░░░░░░░   49.33% 
-🌃 Evening    73 commits     ████████░░░░░░░░░░░░░░░░░   32.44% 
-🌙 Night      32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.22%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
-Tuesday      37 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.44% 
-Wednesday    78 commits     ████████░░░░░░░░░░░░░░░░░   34.67% 
-Thursday     29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
-Friday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.44% 
-Saturday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.22% 
-Sunday       39 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.33%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 03/09/2022 18:50:03 UTC
+ Last Updated on 04/09/2022 18:49:52 UTC
 <!--END_SECTION:waka-->
 
 ---
