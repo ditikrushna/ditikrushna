@@ -23,7 +23,7 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 - Ask me about anything [here](https://github.com/ditikrushna/ditikrushna/issues/new)<br/> 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Don’t document the problem, fix it.”— Atli Björgvin Oddsson   ❞</i>
+<i>❝The worst breach of U.S. military computers in history happened when someone picked up a memory stick (infected by a foreign intelligence agency) they found in the parking lot and plugged it into their computer, which was attached to United States Central Command.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  
 ---
