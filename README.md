@@ -33,42 +33,8 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-327%20Thousand%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-🌃 Evening    17 commits     ███████████░░░░░░░░░░░░░░   47.22% 
-🌙 Night      17 commits     ███████████░░░░░░░░░░░░░░   47.22%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      12 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
-Wednesday    4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Thursday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     7 commits      ████░░░░░░░░░░░░░░░░░░░░░   19.44% 
-Sunday       11 commits     ███████░░░░░░░░░░░░░░░░░░   30.56%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 11/12/2022 18:43:13 UTC
+ Last Updated on 12/12/2022 18:47:48 UTC
 <!--END_SECTION:waka-->
 
 ---
