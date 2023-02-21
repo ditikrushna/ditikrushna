@@ -23,7 +23,7 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 - Ask me about anything [here](https://github.com/ditikrushna/ditikrushna/issues/new)<br/> 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you think you are worth what you know, you are very wrong.  Your knowledge today does not have much value beyond a couple of years.  Your value is what you can learn and how easily you can adapt to the changes this profession brings so often.”— Jose M. Aguilar   ❞</i>
+<i>❝In 2012, the founder of McAfee Antivirus, John McAfee was asked if he personally uses McAfee anti-virus, he replied by saying “I take it off,” and that “It’s too annoying.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  
 ---
