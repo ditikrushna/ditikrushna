@@ -23,7 +23,7 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 - Ask me about anything [here](https://github.com/ditikrushna/ditikrushna/issues/new)<br/> 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The worst breach of U.S. military computers in history happened when someone picked up a memory stick (infected by a foreign intelligence agency) they found in the parking lot and plugged it into their computer, which was attached to United States Central Command.❞</i>
+<i>❝In May 1997, an IBM supercomputer known as Deep Blue beat then chess world champion Garry Kasparov, who had once bragged that he would never lose to a machine. After 15 years, it was discovered that the critical move made by Deep Blue was due to a bug in its software.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  
 ---
