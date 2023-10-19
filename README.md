@@ -17,9 +17,7 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 - **I'm a Developer | Programmer | Learner**<br/>   
-- **I love building things especially webservices using JavaScript, Python and Go.** <br/>
-- **I'm on track for learning distributed systems.** <br/>
-- **In my free time, I pursue Graphic Design (side hustles).** <br/>
+
 - Ask me about anything [here](https://github.com/ditikrushna/ditikrushna/issues/new)<br/> 
 
 <!--STARTS_HERE_QUOTE_README-->
