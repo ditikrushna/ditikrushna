@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Ditikrushna Giri</h1>
-<h3 align="center">A Software Engineer specializing in backend development, hailing from India</h3>
+<h3 align="center">A Software Engineer, hailing from India</h3>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ditikrushna" alt="ditikrushna" /> </p>
 
 <div align="center">
