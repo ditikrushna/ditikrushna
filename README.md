@@ -19,7 +19,7 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 I am an Engineer with a primary focus on cloud security, data security, and distributed systems. My passion lies in exploring these technical realms and constructing solutions that excel in the ever-evolving field of cybersecurity. Beyond my engineering pursuits, I enjoy hobbies such as dirt bike riding, gaming, and competitive coding.  
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you don’t handle [exceptions], we shut your application down.  That dramatically increases the reliability of the system.”— Anders Hejlsberg   ❞</i>
+<i>❝“Companies spend millions of dollars on firewalls, encryption and secure access devices, and it’s money wasted, because none of these measures address the weakest link in the security chain.”— Kevin Mitnick   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  
 ---
