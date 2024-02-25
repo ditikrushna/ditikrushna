@@ -19,7 +19,7 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 I am an Engineer with a primary focus on cloud security, data security, and distributed systems. My passion lies in exploring these technical realms and constructing solutions that excel in the ever-evolving field of cybersecurity. Beyond my engineering pursuits, I enjoy hobbies such as dirt bike riding, gaming, and competitive coding.  
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“A program is never less than 90% complete, and never more than 95% complete.”— Terry Baker   ❞</i>
+<i>❝In 2009, computer scientists created a system that composes a realistic picture from a simple freehand sketch, pulling photos from the internet: Sketch2Photo.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  
 ---
