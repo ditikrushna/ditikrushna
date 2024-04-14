@@ -25,8 +25,6 @@ I am an Engineer with a primary focus on cloud security, data security, and dist
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-793%20hrs%2011%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-575.0%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -61,7 +59,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/04/2024 18:36:43 UTC
+ Last Updated on 14/04/2024 22:59:28 UTC
 <!--END_SECTION:waka-->
 
 ---
