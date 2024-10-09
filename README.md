@@ -78,7 +78,7 @@ No Activity Tracked This Week
 
 📚 **Books I'm Currently Reading**
 <!-- GOODREADS-LIST:START -->
-- [The Outsider](https://www.goodreads.com/review/show/2630769767?utm_medium=api&utm_source=rss) by Stephen         King (⭐️3.98)
+- [The Outsider](https://www.goodreads.com/review/show/2630769767?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.98)
 - [Mossad: The Greatest Missions of the Israeli Secret Service](https://www.goodreads.com/review/show/4247486021?utm_medium=api&utm_source=rss) by Michael Bar-Zohar (⭐️4.15)
 <!-- GOODREADS-LIST:END -->
 
