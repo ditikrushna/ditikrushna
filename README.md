@@ -19,7 +19,7 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 I am an Engineer with a primary focus on cloud security, data security, and distributed systems. My passion lies in exploring these technical realms and constructing solutions that excel in the ever-evolving field of cybersecurity. Beyond my engineering pursuits, I enjoy hobbies such as dirt bike riding, gaming, and competitive coding.  
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝During the production of Toy Story 2, Pixar accidentally deleted the entire movie from its servers. The movie was saved by an employee, a new mother, who worked from home and had the data saved on her personal computer.❞</i>
+<i>❝“I think computer viruses should count as life.  I think it says something about human nature that the only form of life we have created so far is purely destructive.  We’ve created life in our own image.”— Stephen Hawking   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  
 ---
