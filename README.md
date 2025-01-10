@@ -25,10 +25,43 @@ I am an Engineer with a primary focus on cloud security, data security, and dist
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-793%20hrs%2011%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
+**I'm a Night 🦉** 
 
- Last Updated on 09/01/2025 18:50:25 UTC
+```text
+🌞 Morning                1168 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+🌆 Daytime                4551 commits        ██████████░░░░░░░░░░░░░░░   38.31 % 
+🌃 Evening                4695 commits        ██████████░░░░░░░░░░░░░░░   39.52 % 
+🌙 Night                  1466 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1297 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Tuesday                  2801 commits        ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+Wednesday                2626 commits        ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+Thursday                 2491 commits        █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+Friday                   1882 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Saturday                 427 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Sunday                   356 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 10/01/2025 18:48:14 UTC
 <!--END_SECTION:waka-->
 
 ---
