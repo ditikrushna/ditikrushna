@@ -19,7 +19,7 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 I am an Engineer with a primary focus on cloud security, data security, and distributed systems. My passion lies in exploring these technical realms and constructing solutions that excel in the ever-evolving field of cybersecurity. Beyond my engineering pursuits, I enjoy hobbies such as dirt bike riding, gaming, and competitive coding.  
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝American mathematician Marion Tinsley played checkers for 45 years and lost only 7 games. He once beat a computer program, and later analysis showed that Tinsley had played the only possible winning strategy from 64 moves out.❞</i>
+<i>❝The term “World Wide Web” was invented by Tim Berners in 1990.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  
 ---
