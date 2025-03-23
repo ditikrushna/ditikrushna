@@ -19,7 +19,7 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 I am an Engineer with a primary focus on cloud security, data security, and distributed systems. My passion lies in exploring these technical realms and constructing solutions that excel in the ever-evolving field of cybersecurity. Beyond my engineering pursuits, I enjoy hobbies such as dirt bike riding, gaming, and competitive coding.  
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝If there was a computer as powerful as the human brain, it would be able to do 38 thousand trillion operations per second and hold more than 3580 terabytes of memory.❞</i>
+<i>❝Whether you use Mozilla, Chrome Explore, please know that Mosaic was the first browser in  Just when I was born.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  
 ---
