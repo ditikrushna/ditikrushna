@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, I'm Ditikrushna Giri</h1>
-<h3 align="center">A Software Engineer, hailing from India</h3>
+<h1 align="center">Hey there 👋 I'm Ditikrushna Giri</h1>
+<h3 align="center">Software Engineer | India 🇮🇳</h3>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ditikrushna" alt="ditikrushna" /> </p>
 
 <div align="center">
@@ -16,7 +16,8 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-I am an Engineer with a primary focus on cloud security, data security, and distributed systems. My passion lies in exploring these technical realms and constructing solutions that excel in the ever-evolving field of cybersecurity. Beyond my engineering pursuits, I enjoy hobbies such as dirt bike riding, gaming, and competitive coding.  
+I work on cloud security, with a focus on building secure and scalable systems.
+Outside of code: dirt bikes, gaming, and a bit of competitive coding.
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝The microcontroller inside a MacBook charger is about as powerful as the original Macintosh computer.❞</i>
