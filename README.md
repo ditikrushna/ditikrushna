@@ -20,7 +20,7 @@ I work on cloud security, with a focus on building secure and scalable systems.
 Outside of code: dirt bikes, gaming, and a bit of competitive coding.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The microcontroller inside a MacBook charger is about as powerful as the original Macintosh computer.❞</i>
+<i>❝During the production of Toy Story 2, Pixar accidentally deleted the entire movie from its servers. The movie was saved by an employee, a new mother, who worked from home and had the data saved on her personal computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  
 ---
