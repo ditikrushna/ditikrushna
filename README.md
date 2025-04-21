@@ -20,7 +20,7 @@ I work on cloud security, with a focus on building secure and scalable systems.
 Outside of code: dirt bikes, gaming, and a bit of competitive coding.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I am not out to destroy Microsoft, that would be a completely unintended side effect.”— Linus Torvalds   ❞</i>
+<i>❝“Everyone by now presumably knows about the danger of premature optimization.  I think we should be just as worried about premature design — designing too early what a program should do.”— Paul Graham   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  
 ---
