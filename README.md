@@ -20,7 +20,7 @@ I work on cloud security, with a focus on building secure and scalable systems.
 Outside of code: dirt bikes, gaming, and a bit of competitive coding.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Mircosoft included Solitaire in their operating systems “to soothe people intimidated by the operating system” and introduce users to graphic user interfaces and taught them how to use a mouse.❞</i>
+<i>❝“Physics is the universe’s operating system.”— Steven R Garman   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  
 ---
