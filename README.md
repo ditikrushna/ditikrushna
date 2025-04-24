@@ -17,7 +17,6 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 I work on cloud security, with a focus on building secure and scalable systems.
-Outside of code: dirt bikes, gaming, and a bit of competitive coding.
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝There is a programming language called INTERCAL which has keywords like IGNORE, PLEASE , FORGET. If you don’t use PLEASE enough times while coding, Compiler rejects the code.❞</i>
