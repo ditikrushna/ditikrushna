@@ -88,11 +88,15 @@ No Activity Tracked This Week
 <img src="http://www.netanimations.net/livres-13.gif" width="40">**Latest Blogs** 
 
 <!-- BLOG-POST-LIST:START -->
-- [Nearest Smaller Element on Left  of an Array](https://dev.to/ditikrushna/nearest-smaller-element-on-left-of-an-array-h53)
-- [A short note on database design process](https://dev.to/ditikrushna/short-note-on-database-design-process-1bh1)
-- [Multi Thread Model](https://dev.to/ditikrushna/multi-thread-model-5gn0)
-- [Are you using the right CSS units?](https://dev.to/ditikrushna/are-you-using-the-right-css-units-25ee)
-- [Introduction to Docker](https://dev.to/ditikrushna/introduction-to-docker-2b2)
+- [Designing a Real-Time System to Monitor Sensitive Data Movement Across Endpoints](https://www.ditikrushna.space/blog/endpoint-data-movement-monitoring)
+- [Designing a Traffic Information Data System for a Mall](https://www.ditikrushna.space/blog/mall-traffic-data-system-design)
+- [When to Use Singleton and When to Avoid It](https://www.ditikrushna.space/blog/singleton-pattern-guide)
+- [The Danger of Orphaned Resources: How Forgotten Assets Become Attack Paths](https://www.ditikrushna.space/blog/orphaned-resources-risk)
+- [Don't Ignore VPC Flow Logs: Your First Line of Network Defense](https://www.ditikrushna.space/blog/vpc-flow-logs-importance)
+- [Restricting Root Access in AWS: A Step-by-Step Guide](https://www.ditikrushna.space/blog/restrict-root-access-aws)
+- [Why Security Matters When Creating an S3 Bucket](https://www.ditikrushna.space/blog/s3-bucket-security-matters)
+- [Understanding AWS Shared Responsibility Model: Where Security Is Your Job](https://www.ditikrushna.space/blog/aws-shared-responsibility-model)
+- [CloudTrail is Not Optional: Why You Must Enable It Today](https://www.ditikrushna.space/blog/enable-cloudtrail-now)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
