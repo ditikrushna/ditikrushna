@@ -78,8 +78,8 @@ No Activity Tracked This Week
 
 📚 **Books I'm Currently Reading**
 <!-- GOODREADS-LIST:START -->
-- [The Outsider](https://www.goodreads.com/review/show/2630769767?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.98)
-- [Mossad: The Greatest Missions of the Israeli Secret Service](https://www.goodreads.com/review/show/4247486021?utm_medium=api&utm_source=rss) by Michael Bar-Zohar (⭐️4.15)
+- [I Am Nujood, Age 10 and Divorced: A Memoir](https://www.goodreads.com/review/show/7689086604?utm_medium=api&utm_source=rss) by Nujood Ali (⭐️4.1)
+- [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/3198808213?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.33)
 <!-- GOODREADS-LIST:END -->
 
 ---
