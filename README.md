@@ -25,7 +25,7 @@ I work on cloud security, with a focus on building secure and scalable systems.
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-793%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-794%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-793.4%20thousand%20lines%20of%20code-blue)
 
@@ -54,14 +54,18 @@ Sunday                   234 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               51 mins             ██████████████░░░░░░░░░░░   54.85 % 
+YAML                     26 mins             ███████░░░░░░░░░░░░░░░░░░   28.61 % 
+JSON                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/06/2025 18:53:52 UTC
+ Last Updated on 28/06/2025 18:52:59 UTC
 <!--END_SECTION:waka-->
 
 ---
