@@ -19,7 +19,7 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 I work on cloud security, with a focus on building secure and scalable systems.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Simplicity, carried to the extreme, becomes elegance.”— Jon Franklin   ❞</i>
+<i>❝"Simplicity, carried to the extreme, becomes elegance."— Jon Franklin   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  
 ---
@@ -105,47 +105,10 @@ Cursor                   1 hr 33 mins        ███████████�
 
 --- 
 
-<p align="center">
-  <a href="https://leetcode.com/user2917t/">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
-  </a>
+🏆 **CodeWars Statistics**
 
-  <a href="https://www.hackerrank.com/diticuo062">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
-  </a>
-  
-  <a href="https://www.codewars.com/users/ditikrushna">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
-  </a> 
-</p>
+<div align="center">
+  <img src="https://github.r2v.ch/codewars?user=ditikrushna&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark&hide_clan=true&hide_rank=true" alt="CodeWars Stats" width="300" height="200">
+</div>
 
-![Codewars](https://github.r2v.ch/codewars?user=ditikrushna&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
-
-
-<!--
- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3bgcPpDaikspxiUHlH/giphy.gif">
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b><span align='center'>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></span>
-
---- 
-
-
-<p align="center">
-  <a href="https://leetcode.com/user2917t/">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://www.hackerrank.com/diticuo062">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
-  </a>
-  
-  <a href="https://www.codewars.com/users/ditikrushna">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
-  </a> 
-</p>
--->
-
-
-
-
+---
