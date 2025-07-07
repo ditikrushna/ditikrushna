@@ -19,7 +19,7 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 I work on cloud security, with a focus on building secure and scalable systems.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Hard disks are so sensitive to vibration, that just screaming at them diminishes their performance.❞</i>
+<i>❝“From a programmer’s point of view, the user is a peripheral that types when you issue a read request.”— P. Williams   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  
 ---
