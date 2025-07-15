@@ -92,6 +92,7 @@ VS Code                  14 hrs 6 mins       ███████████�
 <img src="http://www.netanimations.net/livres-13.gif" width="40">**Latest Blogs** 
 
 <!-- BLOG-POST-LIST:START -->
+- [Exception Handling is Expensive: 66x+ Slower Than Regular Function Calls](https://www.ditikrushna.space/blog/exception-handling-performance-jvm)
 - [Designing a Real-Time System to Monitor Sensitive Data Movement Across Endpoints](https://www.ditikrushna.space/blog/endpoint-data-movement-monitoring)
 - [Designing a Traffic Information Data System for a Mall](https://www.ditikrushna.space/blog/mall-traffic-data-system-design)
 - [When to Use Singleton and When to Avoid It](https://www.ditikrushna.space/blog/singleton-pattern-guide)
