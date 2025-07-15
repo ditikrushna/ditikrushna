@@ -70,16 +70,6 @@ VS Code                  14 hrs 6 mins       ███████████�
 
 ---
 
-
-🚧 **My Todoist Stats**
-
-<!-- TODO-IST:START -->
-🏆  4,677 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 284 tasks so far           
-⏳  Longest streak is 2 days
-<!-- TODO-IST:END -->
-
 📚 **Books I'm Currently Reading**
 <!-- GOODREADS-LIST:START -->
 - [I Am Nujood, Age 10 and Divorced: A Memoir](https://www.goodreads.com/review/show/7689086604?utm_medium=api&utm_source=rss) by Nujood Ali (⭐️4.1)
