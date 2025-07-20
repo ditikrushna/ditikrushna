@@ -19,7 +19,7 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 I work on cloud security, with a focus on building secure and scalable systems.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Code generation, like drinking alcohol, is good in moderation.”— Alex Lowe   ❞</i>
+<i>❝“The difference between theory and practice is that in theory, there is no difference between theory and practice.”— Richard Moore   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  
 ---
