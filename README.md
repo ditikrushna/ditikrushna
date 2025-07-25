@@ -19,7 +19,7 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 I work on cloud security, with a focus on building secure and scalable systems.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“When you are stuck in a traffic jam with a Porsche, all you do is burn more gas in idle.  Scalability is about building wider roads, not about building faster cars.”— Steve Swartz   ❞</i>
+<i>❝The microcontroller inside a MacBook charger is about as powerful as the original Macintosh computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  
 ---
