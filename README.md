@@ -72,7 +72,7 @@ Cursor                   8 hrs 21 mins       ███████████�
 
 📚 **Books I'm Currently Reading**
 <!-- GOODREADS-LIST:START -->
-- [I Am Nujood, Age 10 and Divorced: A Memoir](https://www.goodreads.com/review/show/7689086604?utm_medium=api&utm_source=rss) by Nujood Ali (⭐️4.1)
+- [I Am Nujood, Age 10 and Divorced: A Memoir](https://www.goodreads.com/review/show/7689086604?utm_medium=api&utm_source=rss) by Nujood Ali (⭐️4.11)
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/3198808213?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.33)
 <!-- GOODREADS-LIST:END -->
 
