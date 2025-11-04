@@ -25,13 +25,15 @@ I work on cloud security, with a focus on building secure and scalable systems.
 ---
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-976%20hrs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 23.3 kB Used in GitHub's Storage 
+> 📦 23.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,397 Contributions in the Year 2025
+> 🏆 1,414 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -39,8 +41,45 @@ I work on cloud security, with a focus on building secure and scalable systems.
  > 
 > 🔑 23 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 03/11/2025 18:53:33 UTC
+```text
+🌞 Morning                2273 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+🌆 Daytime                12136 commits       ██████████░░░░░░░░░░░░░░░   41.57 % 
+🌃 Evening                11461 commits       ██████████░░░░░░░░░░░░░░░   39.26 % 
+🌙 Night                  3322 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   3596 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Tuesday                  6413 commits        █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+Wednesday                6419 commits        █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+Thursday                 6459 commits        ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+Friday                   5037 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Saturday                 873 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Sunday                   395 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               4 hrs 7 mins        ███████████████████░░░░░░   76.72 % 
+Other                    38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+
+💻 Operating System: 
+Mac                      5 hrs 22 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 04/11/2025 18:58:14 UTC
 <!--END_SECTION:waka-->
 
 ---
