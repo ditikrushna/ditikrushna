@@ -25,13 +25,15 @@ I work on cloud security, with a focus on building secure and scalable systems.
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C000%20hrs%203%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 23.3 kB Used in GitHub's Storage 
+> 📦 23.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,503 Contributions in the Year 2025
+> 🏆 1,511 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -39,8 +41,45 @@ I work on cloud security, with a focus on building secure and scalable systems.
  > 
 > 🔑 23 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 16/11/2025 18:53:03 UTC
+```text
+🌞 Morning                2373 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+🌆 Daytime                12979 commits       ██████████░░░░░░░░░░░░░░░   41.92 % 
+🌃 Evening                12113 commits       ██████████░░░░░░░░░░░░░░░   39.12 % 
+🌙 Night                  3495 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   3801 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Tuesday                  6760 commits        █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+Wednesday                6785 commits        █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+Thursday                 6920 commits        ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+Friday                   5390 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Saturday                 911 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Sunday                   393 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               7 hrs 36 mins       █████████████████░░░░░░░░   69.02 % 
+Markdown                 1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+YAML                     1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+
+💻 Operating System: 
+Mac                      11 hrs 1 min        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 17/11/2025 18:57:27 UTC
 <!--END_SECTION:waka-->
 
 ---
