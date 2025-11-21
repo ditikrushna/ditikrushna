@@ -19,7 +19,7 @@ Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new">
 I work on cloud security, with a focus on building secure and scalable systems.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“In 2031, lawyers will be commonly a part of most development teams.”— Grady Booch   ❞</i>
+<i>❝“Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’  Now they have two problems.”— Jamie Zawinski   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  
 ---
