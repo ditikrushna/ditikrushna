@@ -27,7 +27,7 @@ I work on cloud security, with a focus on building secure and scalable systems.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C062%20hrs%202%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.86%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -63,7 +63,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/12/2025 18:59:28 UTC
+ Last Updated on 01/01/2026 19:01:43 UTC
 <!--END_SECTION:waka-->
 
 ---
