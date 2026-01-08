@@ -2,6 +2,54 @@
 <h3 align="center">Software Engineer | India 🇮🇳</h3>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ditikrushna" alt="ditikrushna" /> </p>
 
+**Backend Engineer** @ [**CyberDesk**](https://www.cyberdesk.app/) working on:
+- 🚀 Performance
+- ✨ Data Classification ([Disvoery and Classification](https://www.cyberdesk.app/product/data-inventory))
+- 🎨 Design Systems
+- 💻 Cloud and Infrastructure
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Exception Handling is Expensive: 66x+ Slower Than Regular Function Calls](https://www.ditikrushna.space/blog/exception-handling-performance-jvm)
+- [Designing a Real-Time System to Monitor Sensitive Data Movement Across Endpoints](https://www.ditikrushna.space/blog/endpoint-data-movement-monitoring)
+<!-- BLOG-POST-LIST:END -->
+
+[Read more on my blog →](https://www.ditikrushna.space)
+
+---
+
+### 📊 Coding Activity
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C072%20hrs%2049%20mins-blue)
+
+**This Week I Spent My Time On** 
+
+Python                   4 hrs 18 mins       █████████████████░░░░░░░░   67.17 % 
+TypeScript               44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % <!--END_SECTION:waka-->
+
+---
+
+### 📚 Currently Reading
+
+<!-- GOODREADS-LIST:START -->
+- [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/3198808213) by Yuval Noah Harari
+<!-- GOODREADS-LIST:END -->
+
+---
+
+### 🏆 CodeWars
+
+<div align="center">
+  <img src="https://github.r2v.ch/codewars?user=ditikrushna&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark&hide_clan=true&hide_rank=true" alt="CodeWars Stats" width="300">
+</div>
+
+---
+
+<div align="center">
+  <i>Happy Coding! 😊</i>
+</div>
 <div align="center">
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
