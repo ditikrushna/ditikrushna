@@ -22,79 +22,28 @@
 ### 📊 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C072%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C073%20hrs%2037%20mins-blue?style=flat)
 
-**This Week I Spent My Time On** 
-
-Python                   4 hrs 18 mins       █████████████████░░░░░░░░   67.17 % 
-TypeScript               44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % <!--END_SECTION:waka-->
-
----
-
-### 📚 Currently Reading
-
-<!-- GOODREADS-LIST:START -->
-- [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/3198808213) by Yuval Noah Harari
-<!-- GOODREADS-LIST:END -->
-
----
-
-### 🏆 CodeWars
-
-<div align="center">
-  <img src="https://github.r2v.ch/codewars?user=ditikrushna&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark&hide_clan=true&hide_rank=true" alt="CodeWars Stats" width="300">
-</div>
-
----
-
-<div align="center">
-  <i>Happy Coding! 😊</i>
-</div>
-<div align="center">
-You have finally discovered my Github profile. <br>
-Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/ditikrushna/ditikrushna/issues/new"><b>here</b></a><br>
-
-<i>Happy Coding!</i> 😊
-</div>
-
-<img align="right" alt="Coding" width="400" src="https://github.com/ditikrushna/ditikrushna/blob/master/charts/programmer_transparent.gif">
-
-</br>
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
-
-I work on cloud security, with a focus on building secure and scalable systems.
-
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝Approximately 70% of virus writers are said to work under contract for organized crime syndicates.❞</i>
-<!--ENDS_HERE_QUOTE_README-->
- 
----
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C072%20hrs%2049%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.88%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.97%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2825 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-🌆 Daytime                15664 commits       ███████████░░░░░░░░░░░░░░   42.31 % 
-🌃 Evening                14388 commits       ██████████░░░░░░░░░░░░░░░   38.86 % 
-🌙 Night                  4147 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+🌞 Morning                2845 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+🌆 Daytime                15819 commits       ███████████░░░░░░░░░░░░░░   42.37 % 
+🌃 Evening                14495 commits       ██████████░░░░░░░░░░░░░░░   38.82 % 
+🌙 Night                  4176 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   4633 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Tuesday                  7972 commits        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-Wednesday                8168 commits        ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-Thursday                 8252 commits        ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-Friday                   6538 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Saturday                 1033 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Sunday                   428 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Monday                   4670 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Tuesday                  8031 commits        █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+Wednesday                8233 commits        ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+Thursday                 8335 commits        ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+Friday                   6598 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Saturday                 1040 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Sunday                   428 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 
 
@@ -104,18 +53,18 @@ Sunday                   428 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 hrs 18 mins       █████████████████░░░░░░░░   67.17 % 
-TypeScript               44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Docker                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Python                   4 hrs 18 mins       ███████████████░░░░░░░░░░   59.82 % 
+TypeScript               1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Docker                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 💻 Operating System: 
-Mac                      6 hrs 24 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/01/2026 19:05:01 UTC
+ Last Updated on 08/01/2026 19:01:43 UTC
 <!--END_SECTION:waka-->
 
 ---
