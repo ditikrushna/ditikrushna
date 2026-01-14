@@ -4,7 +4,7 @@
 
 **Backend Engineer** @ [**CyberDesk**](https://www.cyberdesk.app/) working on:
 - 🚀 Performance
-- ✨ Data Classification ([Disvoery and Classification](https://www.cyberdesk.app/product/data-inventory))
+- ✨ Data Discovery and Classification ([Data Discovery and Classification](https://www.cyberdesk.app/product/data-inventory))
 - 🎨 Design Systems
 - 💻 Cloud and Infrastructure
 
